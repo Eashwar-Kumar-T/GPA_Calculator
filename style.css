@@ -1,0 +1,40 @@
+
+img
+{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 120px;
+    height: 100px;
+}
+.l1
+{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.form
+{
+    padding-top: 100px;
+    text-align: center;
+}
+.center{
+    padding-top: 68px;
+    position:absolute;
+    text-align: left;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20vw;
+    height: 23vw;
+    background: #00154d;
+    border-radius: 20px;
+}
+.sub1
+{
+    text-align: center;
+    padding-top: 100px;
+}
